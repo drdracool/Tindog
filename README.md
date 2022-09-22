@@ -16,3 +16,6 @@ The website is built with the help of Angela Yu's Web Development Bootcamp: http
 
 <img width="1315" alt="image" src="https://user-images.githubusercontent.com/97832811/191641972-67512f83-61f4-4f5c-9a1f-43e50ae4820e.png">
 
+## Link
+
+https://drdracool.github.io/Tindog/index.html
